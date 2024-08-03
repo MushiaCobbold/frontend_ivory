@@ -1,4 +1,39 @@
 1. (b) whoami
 2. (c) man
 3. (b) file permissions
-4. ()
+4. (b) ls
+5  (d) your working directory
+6. (d) changes to a/b directory
+7. (a) git add
+8. (a) configuration files
+9. (b) The latest commit in the remote repository
+10.(a) Copy file1 to file2
+11.(d) Lists the contents of a directory
+
+
+
+THEORY
+
+1. Git is a tool used by software engineers and developers worldwide. It facilitates the storage, creation, and sharing of code, allowing individuals from different locations to collaborate on projects without interfering with each other's work. By managing changes and integrating contributions efficiently, Git enhances collaboration and showcases projects within the coding community, fostering a more cohesive and productive development environment.
+
+
+2. Follow these steps:
+•	Log in to your git hub
+•	Click the "+" icon and select "New repository"
+•	Name your repository and add a description
+•	Choose public or private
+•	Click "Create repository"
+•	Create a directory for your project and add files
+•	Navigate to the directory in the terminal
+•	Initialise git (git init)
+•	Add files to git (git add and name of file)
+•	Commit the changes (git commit -m "commit message" ) 
+•	Link your local repository to the GitHub repository (git remote add origin https://github.com/yourusername/your-repo-name.git)
+•	Push your code to GitHub (git push -u origin main)
+
+
+
+
+
+
+
