@@ -1,0 +1,4 @@
+1. (b) whoami
+2. (c) man
+3. (b) file permissions
+4. ()
